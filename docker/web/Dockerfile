@@ -20,6 +20,6 @@ COPY . /app
 
 WORKDIR /app/
 
-EXPOSE 8000
+EXPOSE 8501
 
 CMD ["sh","/start.sh"]

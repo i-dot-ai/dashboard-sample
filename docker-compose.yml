@@ -13,7 +13,7 @@ services:
     volumes:
       - ./:/app/:z
     ports:
-      - "8000:8000"
+      - "8501:8501"
 
   requirements:
     image: python:3.8-buster
