@@ -1,7 +1,5 @@
-import numpy as np  # np mean, np random
-import pandas as pd  # read csv, df manipulation
-import plotly.express as px  # interactive charts
-import streamlit as st  # web development
+import plotly.express as px
+import streamlit as st
 
 year_col, continent_col, log_x_col = st.columns(3)
 
