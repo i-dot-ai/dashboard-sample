@@ -64,7 +64,7 @@ jobs:
               "demo": {"CF_SPACE": "demo"},
               "temp": {"CF_SPACE": "temp"},
               "develop": {"CF_SPACE": "develop"},
-              "staging": {"CF_SPACE": "staging"},
+              "staging": {"CF_SPACE": "staging"}
             }
 
       - name: Download CF CLI
