@@ -1,6 +1,4 @@
 ---
 applications:
-- name: masterclass-develop
+- name: dashboard-develop
   memory: 512M
-  buildpacks:
-  - python_buildpack
